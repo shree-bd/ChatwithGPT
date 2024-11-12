@@ -1,4 +1,4 @@
-# ChatbotAI
+# ChatwithGPT
 
 A simple Python-based chatbot application using OpenAI's GPT-3.5 Turbo model. This chatbot can engage in conversations and provide responses based on the prompt given by the user.
 
