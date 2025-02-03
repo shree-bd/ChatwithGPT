@@ -30,7 +30,7 @@ Follow these steps to set up and run the chatbot locally:
 ### Installation
 1. **Clone the Repository:**
    ```bash
-   git clone (https://github.com/shree-bd/ChatwithGPT/).git
+   git clone https://github.com/shree-bd/ChatwithGPT.git
    cd ChatbotAI-OpenAI
    ```
 
